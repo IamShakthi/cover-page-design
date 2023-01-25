@@ -121,7 +121,7 @@ Add images and other contents using CSS record a screenshot of it.
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>DARIO GEORGE</b></p>
+               <p><b>Yuvashakthi N C</b></p>
             </div>
             <div class="publisher">
                 Packt>
